@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$USER_HOME$/Documents" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practicerun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/edu/quinnipiac/ser210/beeradvisor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/headfirst-ch2-eebalboni" vcs="Git" />
   </component>
 </project>

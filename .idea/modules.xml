@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LS02_-_Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/LS02_-_Calculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LS02_-_Calculator.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LS02_-_Calculator.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Beer_Advisor.iml" filepath="$PROJECT_DIR$/.idea/modules/Beer_Advisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Beer_Advisor.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Beer_Advisor.app.iml" />
     </modules>
   </component>
 </project>

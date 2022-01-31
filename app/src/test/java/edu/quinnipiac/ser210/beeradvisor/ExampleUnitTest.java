@@ -1,4 +1,4 @@
-package edu.quinnipiac.ser210.ls02_calculator;
+package edu.quinnipiac.ser210.beeradvisor;
 
 import org.junit.Test;
 

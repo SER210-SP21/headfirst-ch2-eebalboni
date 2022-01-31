@@ -1,4 +1,4 @@
-package edu.quinnipiac.ser210.ls02_calculator;
+package edu.quinnipiac.ser210.beeradvisor;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("edu.quinnipiac.ser210.ls02_calculator", appContext.getPackageName());
+        assertEquals("edu.quinnipiac.ser210.beeradvisor", appContext.getPackageName());
     }
 }
